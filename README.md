@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">I define myself by my enthusiasm for programming. At the age of 14, I began developing in a self-taught way by reading in forums, sites, etc. Over time, I improved my skills thanks to my job opportunities and courses online.</h3>
+<h1>Hi 👋, I'm David</h1>
+<p>I define myself by my enthusiasm for programming. At the age of 14, I began developing in a self-taught way by reading in forums, sites, etc. Over time, I improved my skills thanks to my job opportunities and courses online.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidsuarezcdo&label=Profile%20views&color=0e75b6&style=flat" alt="davidsuarezcdo" /> </p>
 
