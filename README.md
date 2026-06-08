@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidsuarezcdo&label=Profile%20views&color=0e75b6&style=flat" alt="davidsuarezcdo" /> </p>
 <p align="left"> <a href="https://wakatime.com/@12345bc6-d82c-436a-a5a5-89b631d0b31f"><img src="https://wakatime.com/badge/user/12345bc6-d82c-436a-a5a5-89b631d0b31f.svg" alt="Total time coded since Feb 9 2018" /></a> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidsuarezcdo&theme=darkhub&rank=-UNKNOWN,-C" alt="davidsuarezcdo" /></a> </p>
+
 
 
 - 🌱 I’m currently learning **ai, chatbots, prompt engineering, prompt chaining, langchain, fine-tuning**
