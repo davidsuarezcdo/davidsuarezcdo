@@ -1,18 +1,27 @@
-<h3>Hi 👋, I'm David</h3>
-<p>I define myself by my enthusiasm for programming. At the age of 14, I began developing in a self-taught way by reading in forums, sites, etc. Over time, I improved my skills thanks to my job opportunities and courses online.</p>
+# David Suárez
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davidsuarezcdo&label=Profile%20views&color=0e75b6&style=flat" alt="davidsuarezcdo" /> </p>
-<p align="left"> <a href="https://wakatime.com/@12345bc6-d82c-436a-a5a5-89b631d0b31f"><img src="https://wakatime.com/badge/user/12345bc6-d82c-436a-a5a5-89b631d0b31f.svg" alt="Total time coded since Feb 9 2018" /></a> </p>
+Full-stack software engineer in Monterrey, Mexico. I build web systems end to end, from the data model to the interface, and take them to production. I've been doing it since 2014, and I'm currently Tech Lead of the Heroes team at [ComparaOnline](https://www.comparaonline.com).
 
+[davidsuarez.dev](https://davidsuarez.dev) · [LinkedIn](https://www.linkedin.com/in/davidsuarezcdo/) · contact@davidsuarez.dev
 
+## What I've built
 
-- 🌱 I’m currently learning **ai, chatbots, prompt engineering, prompt chaining, langchain, fine-tuning**
+- **Contact center and CRM on a hexagonal architecture.** At ComparaOnline we replaced Bitrix24 and MessageBird with Twilio Flex and HubSpot. TypeScript, Node.js, Apache Kafka.
+- **User identity and journey.** Part of the Customer Data Platform team: user identification and a view of every step of the user's path.
+- **The platform that replaced the spreadsheets.** At ReferenceCheck MX I designed and built the company's web system from scratch: workflows with role-based access, a treasury module that extracts bank data, and real-time document delivery. PHP, Node.js, Socket.IO, MySQL.
 
-- 💬 Ask me about **typescript, nest js, hexagonal architecture, react, vue js**
+## Open source
 
-- 📫 How to reach me **contact@davidsuarez.dev**
+| Project | What it does |
+|---|---|
+| [graph-code](https://github.com/davidsuarezcdo/graph-code) | Turns a codebase into a Neo4j knowledge graph you can explore and query in natural language. |
+| [curl-e2e-webhook](https://github.com/davidsuarezcdo/curl-e2e-webhook) | MCP server for end-to-end testing of async APIs: fire a request with curl, wait for the webhook. |
+| [claude-tmux](https://github.com/davidsuarezcdo/claude-tmux) | Runs several Claude Code agents in parallel, one tmux session per project. |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/davidsuarezcdo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davidsuarezcdo" height="20" width="30" /></a>
-</p>
+## Stack
+
+- **Backend:** TypeScript, Node.js, NestJS, PHP, Python (FastAPI), Apache Kafka, REST, WebSockets
+- **Data:** PostgreSQL, MySQL, MongoDB, Redis
+- **Frontend:** React, Astro, Vue.js, WordPress
+- **Infrastructure:** Docker, Kubernetes, AWS, GitHub Actions, Datadog
+- **Practice:** hexagonal architecture, Shape Up, code review, AI-assisted development (Claude Code, Codex, MCP)
