@@ -1,6 +1,6 @@
 # David Suárez
 
-Full-stack software engineer in Monterrey, Mexico. I build web systems end to end, from the data model to the interface, and take them to production. I've been doing it since 2014, and I'm currently Tech Lead of the Heroes team at [ComparaOnline](https://www.comparaonline.com).
+Full-stack software engineer in Monterrey, Mexico. I build web systems end to end, from the data model to the interface, and take them to production. I've been doing it since 2014.
 
 [davidsuarez.dev](https://davidsuarez.dev) · [LinkedIn](https://www.linkedin.com/in/davidsuarezcdo/) · contact@davidsuarez.dev
 
